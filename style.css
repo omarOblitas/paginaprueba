@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-style: none;
+  font-family: sans-serif;
+  text-decoration: none;
+}
+.navigation {
+  display: flex;
+  justify-content: space-around;
+  margin: 2rem;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.nav_one {
+  display: flex;
+  gap: 3rem;
+}
